@@ -19,7 +19,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <jdk.version>1.11</jdk.version>
 
-    <maven.compiler.plugin.version>3.9.4</maven.compiler.plugin.version>
+    <maven.compiler.plugin.version>3.11.0</maven.compiler.plugin.version>
   </properties>
 
   <build>
